@@ -1,11 +1,11 @@
 PHONEPE PULSE  DATA VISUALIZATION
 =================================
 ABOUT:
-    *   PhonePe Pulse is a repository or dataset that contains transaction and user-related data from the PhonePe digital payments platform. PhonePe is a popular digital payments app in India that allows users to make various transactions, such as money transfers, bill payments, mobile recharges, and online purchases, using their smartphones.
+    * PhonePe Pulse is a repository or dataset that contains transaction and user-related data from the PhonePe digital payments platform. PhonePe is a popular digital payments app in India that allows users to make various transactions, such as money transfers, bill payments, mobile recharges, and online purchases, using their smartphones.
 
-    *  The PhonePe Pulse dataset is a valuable resource for analyzing the trends, patterns, and performance of the digital payments ecosystem in India. It provides insights into the usage patterns, transaction volumes, and user behavior on the PhonePe platform.
+    * The PhonePe Pulse dataset is a valuable resource for analyzing the trends, patterns, and performance of the digital payments ecosystem in India. It provides insights into the usage patterns, transaction volumes, and user behavior on the PhonePe platform.
 
-    *   The dataset likely includes various data points, such as transaction amounts, transaction types, user demographics, timestamps, locations (states and districts), and app usage metrics (such as app openings and registrations).
+    * The dataset likely includes various data points, such as transaction amounts, transaction types, user demographics, timestamps, locations (states and districts), and app usage metrics (such as app openings and registrations).
 
 WORKFLOW:
 
